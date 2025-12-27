@@ -6,4 +6,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <Import Project="..\InventoryManager.Shared\InventoryManager.Shared.projitems" Label="Shared" />
+
 </Project>

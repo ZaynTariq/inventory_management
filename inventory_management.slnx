@@ -3,4 +3,5 @@
   <Project Path="InventoryManager.Domain/InventoryManager.Domain.csproj" />
   <Project Path="InventoryManager.Host/InventoryManager.Host.csproj" />
   <Project Path="InventoryManager.Persistence/InventoryManager.Persistence.csproj" />
+  <Project Path="InventoryManager.Shared/InventoryManager.Shared.shproj" />
 </Solution>
